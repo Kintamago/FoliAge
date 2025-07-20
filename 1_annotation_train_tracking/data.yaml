@@ -1,0 +1,6 @@
+Train: Train.txt
+names:
+  0: Tree
+  1: Bush
+  2: Grass
+path: .
