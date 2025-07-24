@@ -1,0 +1,5 @@
+train: images/train
+val: images/train
+
+nc: 3
+names: ['Tree', 'Bush', 'Grass']
