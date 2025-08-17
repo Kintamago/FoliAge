@@ -8,7 +8,7 @@ from folium.plugins import MarkerCluster
 
 SF_GEO_PATH = "SF.geojson"
 JSONL_PATH = "detections.jsonl"
-OUT_HTML   = "sf_detections_map.html"
+OUT_HTML   = "index.html"
 
 # Optional: map class_id -> class_name if you use numeric IDs in logs
 ID_TO_NAME = {0: "tree", 1: "bush", 2: "grass"}
